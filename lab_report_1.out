@@ -1,13 +1,19 @@
 \BOOKMARK [1][-]{section.1}{Introduction}{}% 1
-\BOOKMARK [1][-]{section.2}{Kiến thức cơ sở}{}% 2
-\BOOKMARK [2][-]{subsection.2.1}{Waterfall}{section.2}% 3
-\BOOKMARK [2][-]{subsection.2.2}{V-shaped}{section.2}% 4
-\BOOKMARK [2][-]{subsection.2.3}{Spriral}{section.2}% 5
-\BOOKMARK [1][-]{section.3}{Hệ thống phương pháp Agile}{}% 6
-\BOOKMARK [2][-]{subsection.3.1}{Các phương pháp Agile}{section.3}% 7
-\BOOKMARK [3][-]{subsubsection.3.1.1}{Scrum}{subsection.3.1}% 8
-\BOOKMARK [3][-]{subsubsection.3.1.2}{Extreme programming}{subsection.3.1}% 9
-\BOOKMARK [1][-]{section.4}{ Ứng dụng agile}{}% 10
-\BOOKMARK [2][-]{subsection.4.1}{Sprint 1: Xây dựng module xác thực}{section.4}% 11
-\BOOKMARK [2][-]{subsection.4.2}{Sprint 2: Module sản phẩm}{section.4}% 12
-\BOOKMARK [1][-]{section.5}{Kết luận}{}% 13
+\BOOKMARK [1][-]{section.2}{Background}{}% 2
+\BOOKMARK [1][-]{section.3}{Conditional Table Generative Adversarial Networks}{}% 3
+\BOOKMARK [2][-]{subsection.3.1}{Generator and Discriminator}{section.3}% 4
+\BOOKMARK [3][-]{subsubsection.3.1.1}{Generator}{subsection.3.1}% 5
+\BOOKMARK [3][-]{subsubsection.3.1.2}{Discriminator}{subsection.3.1}% 6
+\BOOKMARK [2][-]{subsection.3.2}{Input and output}{section.3}% 7
+\BOOKMARK [3][-]{subsubsection.3.2.1}{Continuous and discrete value}{subsection.3.2}% 8
+\BOOKMARK [3][-]{subsubsection.3.2.2}{Conditional vector}{subsection.3.2}% 9
+\BOOKMARK [2][-]{subsection.3.3}{Losses}{section.3}% 10
+\BOOKMARK [1][-]{section.4}{Improvements}{}% 11
+\BOOKMARK [2][-]{subsection.4.1}{Quantization}{section.4}% 12
+\BOOKMARK [2][-]{subsection.4.2}{Binning}{section.4}% 13
+\BOOKMARK [2][-]{subsection.4.3}{Gumbel training}{section.4}% 14
+\BOOKMARK [2][-]{subsection.4.4}{Normalization}{section.4}% 15
+\BOOKMARK [3][-]{subsubsection.4.4.1}{Adult dataset}{subsection.4.4}% 16
+\BOOKMARK [3][-]{subsubsection.4.4.2}{Fire Department}{subsection.4.4}% 17
+\BOOKMARK [3][-]{subsubsection.4.4.3}{Sorting values before normalization}{subsection.4.4}% 18
+\BOOKMARK [2][-]{subsection.4.5}{Latent Optimization}{section.4}% 19
