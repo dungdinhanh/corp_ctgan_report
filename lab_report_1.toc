@@ -2,19 +2,19 @@
 \contentsline {section}{\numberline {1}Introduction}{1}{section.1}
 \contentsline {section}{\numberline {2}Background}{2}{section.2}
 \contentsline {section}{\numberline {3}Conditional Table Generative Adversarial Networks}{2}{section.3}
-\contentsline {subsection}{\numberline {3.1}Generator and Discriminator}{2}{subsection.3.1}
-\contentsline {subsubsection}{\numberline {3.1.1}Generator}{2}{subsubsection.3.1.1}
+\contentsline {subsection}{\numberline {3.1}Generator and Discriminator}{3}{subsection.3.1}
+\contentsline {subsubsection}{\numberline {3.1.1}Generator}{3}{subsubsection.3.1.1}
 \contentsline {subsubsection}{\numberline {3.1.2}Discriminator}{3}{subsubsection.3.1.2}
 \contentsline {subsection}{\numberline {3.2}Input and output}{3}{subsection.3.2}
-\contentsline {subsubsection}{\numberline {3.2.1}Continuous and discrete value}{3}{subsubsection.3.2.1}
-\contentsline {subsubsection}{\numberline {3.2.2}Conditional vector}{4}{subsubsection.3.2.2}
+\contentsline {subsubsection}{\numberline {3.2.1}Continuous and discrete value}{4}{subsubsection.3.2.1}
+\contentsline {subsubsection}{\numberline {3.2.2}Conditional vector}{5}{subsubsection.3.2.2}
 \contentsline {subsection}{\numberline {3.3}Losses}{5}{subsection.3.3}
-\contentsline {section}{\numberline {4}Improvements}{5}{section.4}
-\contentsline {subsection}{\numberline {4.1}Quantization}{5}{subsection.4.1}
+\contentsline {section}{\numberline {4}Improvements}{6}{section.4}
+\contentsline {subsection}{\numberline {4.1}Quantization}{6}{subsection.4.1}
 \contentsline {subsection}{\numberline {4.2}Binning}{6}{subsection.4.2}
-\contentsline {subsection}{\numberline {4.3}Gumbel training}{6}{subsection.4.3}
-\contentsline {subsection}{\numberline {4.4}Normalization}{6}{subsection.4.4}
-\contentsline {subsubsection}{\numberline {4.4.1}Adult dataset}{7}{subsubsection.4.4.1}
+\contentsline {subsection}{\numberline {4.3}Gumbel training}{7}{subsection.4.3}
+\contentsline {subsection}{\numberline {4.4}Normalization}{7}{subsection.4.4}
+\contentsline {subsubsection}{\numberline {4.4.1}Adult dataset}{8}{subsubsection.4.4.1}
 \contentsline {subsubsection}{\numberline {4.4.2}Fire Department}{8}{subsubsection.4.4.2}
 \contentsline {subsubsection}{\numberline {4.4.3}Sorting values before normalization}{8}{subsubsection.4.4.3}
 \contentsline {subsection}{\numberline {4.5}Latent Optimization}{9}{subsection.4.5}

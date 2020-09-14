@@ -83,9 +83,20 @@ In general, there are a number of methods could help to produce synthetic data t
 
 \section{Background}
 
-In this section, we would go through several popular methods for generating tabular data including \ac{GANs} and Bayesian methods.
+In this section, we would go through several popular methods for generating tabular data including \ac{GANs} and Bayesian methods. 
 
+ In \cite{choi2017generating}, the authors propose a method for generating patient records data. In this work, \citeauthor{choi2017generating} solve the problem of learning discrete data of \ac{GANs} by modelling the data into frequencies matrix. However, this method is too specific on medical data and patient records which could not perform on normal table data with mixture continuous and discrete features.  
 
+The work \cite{park2018data} proposes the way to model table data into a square matrix by reshaping the vector into two dimensions matrix. After that, padding method is applied to make all matrices have the same size. the DCGAN is applied in this work to generate synthetic data as DCGAN was the stable and reliable model for generating data. 
+
+On another approach, The VeeGAN in \cite{srivastava2017veegan} enhance the generative learning by a vector reconstructor network which is absolutely efficient in avoiding mode collapse. However, the VeeGAN suffers from the modelling the input for the table data as previous methods as other \ac{GANs}. As a result, the method could not results in good solution for generating table data which includes both discrete and continuous value.  The Figure \ref{fig:background} shows the results of these networks compared to Bayesian methods. 
+
+\begin{figure}[h]
+	\centering
+	\includegraphics[scale=0.8]{figures/background.png}
+	\caption{The number of wins of a particular methods compared with the corresponding Bayesian network against an appropriate metric on 8 real datasets. \cite{xu2019modeling}}
+	\label{fig:background}
+\end{figure}
 
 \section{Conditional Table Generative Adversarial Networks}\label{ktcs}
 
